@@ -8,7 +8,7 @@ B08, Phi Nguyen
 **What is the most interesting topic covered in your domain this quarter?**\
 Computer vision and using software and machine learning for object detection. Most notably, we use these tools for powerlines and vegetation in San Diego with the help of SDGE.
 
-**Describe a potential investigation you would like to pursue for your Quarter 2 Project.**\
+**Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
 <ul>
   <li>Detecting if a powerline pole has been tilting during the past few years. </li>
   <li>Measuring tree growth. </li>
